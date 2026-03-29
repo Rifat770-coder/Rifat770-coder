@@ -22,6 +22,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rifat770-coder&theme=darkhub&margin-w=10)
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
 ## 🔝 Top Contributed Repo
 
