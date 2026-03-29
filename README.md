@@ -29,15 +29,15 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-one-drab-50.vercel.app/api?username=Rifat770-coder&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-<img src="https://github-readme-stats-one-drab-50.vercel.app/api/top-langs/?username=Rifat770-coder&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-one-drab-50.vercel.app/api?username=Rifat770-coder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=2" height="170" />
+  <img src="https://github-readme-stats-one-drab-50.vercel.app/api/top-langs/?username=Rifat770-coder&layout=compact&theme=tokyonight&cache_seconds=1800&v=2" height="170" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rifat770-coder&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Rifat770-coder&theme=tokyonight&v=2" />
 </p>
 
 ---
